@@ -35,7 +35,7 @@
 <br>
 
 
-## Contact
+## ☎ Contact
 
 <p align="left" style="background:yellow">
 <a href="https://linkedin.com/in/leocezardev" target="_blank">
@@ -57,7 +57,7 @@
 
 <br><br>
 
-## Rest area
+## ⛵ Rest area
 
 <img width="490em" class="column" src="https://github-readme-twitter-gazf.vercel.app/api?id=elonmusk&layout=wide&show_reply=off&show_retweet=off" />
 
