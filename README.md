@@ -50,6 +50,9 @@
 <a href="https://open.spotify.com/artist/1cD40d1HaNNrV6h0LseHxN?si=t0DqhwtuQLOsi8Vg7W2Ibw" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-z o v-05122A?style=flat&logo=spotify" alt="spotify"/>
 </a>
+<a href="mailto:leocezardev@gmail.com" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-leocezardev@gmail.com-05122A?style=flat&logo=gmail" alt="gmail"/>
+</a>
 </p>
 
 <br><br>
