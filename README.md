@@ -54,8 +54,6 @@
 
 <br><br>
 
-<!--
-
 ## Rest area
 
 <img width="490em" class="column" src="https://github-readme-twitter-gazf.vercel.app/api?id=elonmusk&layout=wide&show_reply=off&show_retweet=off" />
