@@ -1,4 +1,4 @@
-<img align="right" height="600em" src="https://raw.githubusercontent.com/gist/leoczrdev/76aaff030d3a5dfb3e6365ab2e8674a5/raw/9c2c9cee243e351f86b193b3cc099fa73d0d9180/githubcardrdme.svg"/>
+<img align="right" height="600em" src="https://raw.githubusercontent.com/gist/leocezardev/76aaff030d3a5dfb3e6365ab2e8674a5/raw/9c2c9cee243e351f86b193b3cc099fa73d0d9180/githubcardrdme.svg"/>
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Leo Cézar</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leocezardev&color=yellow" alt="Profile views" /> </p>
 
