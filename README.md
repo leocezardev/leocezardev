@@ -29,8 +29,8 @@
 ![Outsystems](https://img.shields.io/badge/-Outsystems-05122A?logo=Okta)&nbsp;
 ![Notion](https://img.shields.io/badge/-Notion-05122A?logo=Notion)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-05122A?logo=Figma)&nbsp;
-![React](https://img.shields.io/badge/-Figma-05122A?logo=React)&nbsp;
-![Flutter](https://img.shields.io/badge/-Figma-05122A?logo=Flutter)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?logo=React)&nbsp;
+![Flutter](https://img.shields.io/badge/-Flutter-05122A?logo=Flutter)&nbsp;
 
 
 
