@@ -1,5 +1,5 @@
 <img align="right" height="600em" src="https://raw.githubusercontent.com/gist/leocezardev/76aaff030d3a5dfb3e6365ab2e8674a5/raw/9c2c9cee243e351f86b193b3cc099fa73d0d9180/githubcardrdme.svg"/>
-<h1 align="left">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">, I'm Leo Cézar</h1>
+<h1 align="left">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">, I'm  <a href="https://leocezar.dev" target="_blank">Leo Cézar</a></h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leocezardev&color=blue" alt="Profile views" /> </p>
 
 
