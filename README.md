@@ -43,15 +43,17 @@
 <a href="https://linkedin.com/in/leocezardev" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-leocezardev-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
+ <!-- 
 <a href="https://instagram.com/cezzrr" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-cezzrr-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 <a href="https://youtube.com/@prodzov" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-prodzov-05122A?style=flat&logo=youtube" alt="youtube"/>
 </a>
-<a href="https://open.spotify.com/artist/1cD40d1HaNNrV6h0LseHxN?si=t0DqhwtuQLOsi8Vg7W2Ibw" target="_blank">
+ <a href="https://open.spotify.com/artist/1cD40d1HaNNrV6h0LseHxN?si=t0DqhwtuQLOsi8Vg7W2Ibw" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-z o v-05122A?style=flat&logo=spotify" alt="spotify"/>
 </a>
+-->
 <a href="mailto:leocezardev@gmail.com" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-leocezardev@gmail.com-05122A?style=flat&logo=gmail" alt="gmail"/>
 </a>
