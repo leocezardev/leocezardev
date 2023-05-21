@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leocezardev&color=blue" alt="Profile views" /> </p>
 
 
-- 💻 Software Engineer & Program / Project Manager
+- 💻 Software Engineer - Tech Lead / Scrum Master
 
 - 👨‍💻 I’m currently working at [SEDF (Secretaria de Edução do Distrito Federal)](https://www.educacao.df.gov.br/)
 
